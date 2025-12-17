@@ -1,20 +1,20 @@
 <p align="center">
     <img src="./ryzumi.webp" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">RyzumiMD-ESM</h1>
+<h1 align="center">LaifulShop-ESM</h1>
 
 </p>
 <p align="center">
-<a href="https://github.com/ShirokamiRyzen"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ShirokamiRyzen-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/IbraDecode"><img title="Author" src="https://img.shields.io/badge/AUTHOR-IbraDecode-green.svg?style=for-the-badge&logo=github"></a>
 
 ##
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=6285864034767&text=.menu)
-[![CHANNEL](https://img.shields.io/badge/Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb2qO9Q5vKAGd2t7ap1F)
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285174269046)
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=31617786379text=.menu)
+[![CHANNEL](https://img.shields.io/badge/Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://ibraa.web.id)
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/31617786379)
  
 
 # IMPORTANT!!!
-## All visual assets (images, icons, sprites, characters, UI elements) in this repository are © Ryzumi Network. You may not reuse, redistribute, or modify these assets without explicit permission.
+## All visual assets (images, icons, sprites, characters, UI elements) in this repository are © Ibra Decode. You may not reuse, redistribute, or modify these assets without explicit permission.
 ### The code remains licensed under GNU GPL v3.
 
 ## NOTE BEFORE USING!!
@@ -50,8 +50,8 @@
 
 #### Setup bot on your Machine
 ```bash
-$ git clone https://github.com/ShirokamiRyzen/RyzumiMD-ESM
-$ cd RyzumiMD-ESM
+$ git clone https://github.com/IbraDecode/LaifulShop
+$ cd LaifulShop
 $ npm i
 ```
 
